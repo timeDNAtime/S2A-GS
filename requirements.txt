@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+scipy
+opencv-python
+Pillow
+tqdm
+scikit-image
+lpips
+pytorch-msssim
+ultralytics
+hydra-core
+omegaconf
+mamba-ssm
+pandas
